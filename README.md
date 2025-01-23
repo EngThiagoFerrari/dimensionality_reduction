@@ -4,7 +4,7 @@
 
 ### Introduction
 This project is part of the bootcamp Machine Learning Practitioner, offered by BairesDev through the DIO.me web platform.
-The obejctive of this study is to implement an Image Dimensionality reduction in python by tranforming a colored image to grayscale and a black and white images. Throught the tests I ran developing it, I could observe a significant reduction in the image size -- around 22 to 35%, mainly when evaluating the grayscale image. The black and white image (binary) results were not that consistent -- some of them showed lesser reduction and even increase in sizes for some of the samples.
+The objective of this study is to implement an Image Dimensionality reduction in python by transforming a colored image to grayscale and a black and white images. Throught the tests I ran developing it, I could observe a significant reduction in the image size -- around 22 to 35%, mainly when evaluating the grayscale image. The black and white image (binary) results were not that consistent -- some of them showed lesser reduction and even increase in sizes for some of the samples.
 Note: According to a quick research about this issue, I learned that it may happen sometimes depending exclusively on the image, but I still have to delve deeper into this subject.
 
 The whole code and processes are written in the file "Dimensionality_Reduction_in_Images.ipynb"  
